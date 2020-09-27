@@ -2,8 +2,8 @@
 1. install Eclipse java photon :</br>
 https://www.eclipse.org/downloads/
 2. Install Java Development Kit 8:</br>
-https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html#license-lightbox</br/>
-3 . After Opening Eclipse ; install TestNG from Help << Eclipse marketplace,; by typing "TESNG" in the "Find" text area under "Search" tab.
+https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html#license-lightbox</br>
+3. After Opening Eclipse ; install TestNG from Help << Eclipse marketplace,; by typing "TESNG" in the "Find" text area under "Search" tab.
 
 <b>To Open The Project:</b>
 1. Select File > Import;  In the import window, expand Maven, select "Existing Maven Projects", and click on "Next"
