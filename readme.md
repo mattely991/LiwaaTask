@@ -1,8 +1,8 @@
 <b>Getting Started</b>:
-1. install Eclipse java photon :
+1. install Eclipse java photon :</br>
 https://www.eclipse.org/downloads/
-2. Install Java Development Kit 8:
-https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html#license-lightbox
+2. Install Java Development Kit 8:</br>
+https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html#license-lightbox</br/>
 3 . After Opening Eclipse ; install TestNG from Help << Eclipse marketplace,; by typing "TESNG" in the "Find" text area under "Search" tab.
 
 <b>To Open The Project:</b>
