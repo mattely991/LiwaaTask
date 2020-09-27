@@ -20,7 +20,7 @@ https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html#licen
 
 
 <b>How To Run the Tests:</b>
-There is an XML file "Run_TestCases.xml" which include the tests under "Serach.Java" class .
+<i>There is an XML file "Run_TestCases.xml" which include the tests under "Search.Java" class</i>
 1. Right Click on this file 
 2. Choose "Run as TestNG Suite"
 3. After finishing the run , you can see the report under "test-output" folder , 
