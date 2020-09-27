@@ -1,4 +1,4 @@
-Getting Started:
+<b>Getting Started</b>:
 1. install Eclipse java photon :
 https://www.eclipse.org/downloads/
 2. Install Java Development Kit 8:
@@ -11,9 +11,9 @@ To Open The Project:
 
 
 The Test Cases Covered the following (you can find them under Github Package>> Search.Java class :
-1. Opening github.com should show a search box in the header panel, with placeholder text of “Search Github”.  >> @test Method : Part3_1
-2.Searching for the text (repo) “python/cpython” should take the user to a new page showing a list of repos under a title “X repository results”, X being a number of matching repos.  >> @test Method: part 3_2
-3.The first result for the search term should be the repo “python/cpython” with the following URL, https://github.com/python/cpython @test Method: Part 3_3
+1. Opening github.com should show a search box in the header panel, with placeholder text of â€œSearch Githubâ€.  >> @test Method : Part3_1
+2.Searching for the text (repo) â€œpython/cpythonâ€ should take the user to a new page showing a list of repos under a title â€œX repository resultsâ€, X being a number of matching repos.  >> @test Method: part 3_2
+3.The first result for the search term should be the repo â€œpython/cpythonâ€ with the following URL, https://github.com/python/cpython @test Method: Part 3_3
 4. Clicking on the repo, should open its page. >>@test Method : Part 3_3
 5.Within the readme section, confirm the existence of the CI statuses bar, like the following.>>@test Method : Part 4_4 
 
